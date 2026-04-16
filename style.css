@@ -3,3 +3,13 @@
   font-weight: 400;
   font-style: normal;
 }
+h1 {
+  color: black;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+p {
+color: lightgray;
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 20px;
+}
