@@ -1,5 +1,7 @@
 body {
   background-image: url(https://github.com/WillsDissolve/PERSONAL-PORTFOLIO/blob/main/img/indexBGv2.jpg?raw=true);
+  background-repeat: no-repeat;
+  background-position: right bottom;
 }
 
 .bebas-neue-regular {
