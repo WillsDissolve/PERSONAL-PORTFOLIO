@@ -1,8 +1,6 @@
 body {
   background-image: url(https://github.com/WillsDissolve/PERSONAL-PORTFOLIO/blob/main/img/indexBGstretch.jpg?raw=true);
-  background-repeat: no-repeat;
-  background-position: bottom;
-  background-attachment: fixed;
+  background-size: cover;
 }
 
 .bebas-neue-regular {
